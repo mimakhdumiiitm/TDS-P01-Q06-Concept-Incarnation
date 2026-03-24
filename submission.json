@@ -1,0 +1,6 @@
+{
+  "prompt": "A hyper-detailed, photorealistic scene inside a traditional tailor’s workshop. In the center, a master tailor is obsessively crafting a suit on a mannequin, using an excessive number of pins, stitches, and fine adjustments. The fabric is unnaturally tight, folded, and stitched to perfectly conform to every tiny imperfection of the mannequin’s surface, including dents, asymmetries, and irregular bumps, making the suit look overly complex, rigid, and strained. Around the workshop, in softer focus, there are a few other mannequins with more typical body shapes, but the suit clearly would not fit them at all. The workspace is filled with scattered fabric pieces, measuring tapes, scissors, threads, and tools, conveying intense effort and precision. Natural sunlight enters through a window, creating realistic shadows and highlighting textures of cloth and metal. The entire scene looks like a real photograph taken in a physical environment. No text, no labels, no diagrams, no symbols, no overlays.",
+  "model": "gpt-image-1.5-high-fidelity",
+  "concept": "overfitting",
+  "metaphor": "A suit tailored too perfectly for one mannequin fits no others, like a model that memorizes training data but fails on new data"
+}
